@@ -1,0 +1,4 @@
+#Mon Jul 22 21:58:43 BRT 2019
+base.0=/home/lucas/Área de Trabalho/nubank/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
